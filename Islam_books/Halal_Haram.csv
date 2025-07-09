@@ -1,0 +1,785 @@
+Item,Category,Status,Reason
+Pork,Food,Haram,"Prohibited in Islam"
+Chicken,Food,Halal,"Permissible if slaughtered according to Islamic law"
+Alcohol,Drink,Haram,"Intoxicants are forbidden"
+Beef,Food,Halal,"Permissible if slaughtered according to Islamic law"
+Lotto,Activity,Haram,"Gambling is forbidden"
+Prayer,Activity,Halal,"Religious duty"
+Wine,Drink,Haram,"Intoxicants are forbidden"
+Dating,Activity,Haram,"Outside of marriage not permitted"
+Fish,Food,Halal,"Permissible"
+Gelatin (Porcine),Food,Haram,"Derived from pork"
+Gelatin (Bovine),Food,Halal,"Derived from halal-slaughtered cows"
+Item,Category,Status,Reason
+Pork,Food,Haram,Forbidden in Islam
+Chicken (Halal Slaughtered),Food,Halal,Permissible if slaughtered according to Islamic law
+Alcohol,Drink,Haram,Intoxicants are forbidden
+Beef (Halal Slaughtered),Food,Halal,Permissible if slaughtered according to Islamic law
+Lottery,Activity,Haram,Gambling is forbidden
+Prayer,Activity,Halal,Religious duty
+Wine,Drink,Haram,Alcoholic beverages are forbidden
+Dating (Unmarried),Activity,Haram,Relationships outside marriage are forbidden
+Fish,Food,Halal,Permissible
+Gelatin (Porcine),Food,Haram,Derived from pork
+Gelatin (Halal Bovine),Food,Halal,Derived from halal-slaughtered animal
+Bribery,Financial,Haram,Unlawful gain
+Charity (Zakat),Financial,Halal,Religious obligation
+Interest (Riba),Financial,Haram,Usury is forbidden
+Stealing,Behavior,Haram,Theft is forbidden
+Honesty,Behavior,Halal,Encouraged in Islam
+Murder,Behavior,Haram,Prohibited in Islam
+Marriage,Activity,Halal,Permissible
+Adultery,Behavior,Haram,Prohibited in Islam
+Smoking,Behavior,Haram,Harmful substances are forbidden
+Vaping,Behavior,Haram,Harmful substances are forbidden
+Cigarettes,Product,Haram,Harmful substances are forbidden
+Perfume (Alcohol-Free),Product,Halal,Permissible
+Perfume (With Alcohol),Product,Haram,Alcohol is forbidden
+Dog Meat,Food,Haram,Forbidden in Islam
+Lamb (Halal Slaughtered),Food,Halal,Permissible if slaughtered according to Islamic law
+Ham,Food,Haram,Derived from pork
+Sushi (With Halal Ingredients),Food,Halal,Permissible
+Sushi (With Alcohol),Food,Haram,Contains alcohol
+Wine Vinegar,Food,Halal,Alcohol is converted and no longer intoxicant
+Vanilla Extract (Alcohol-Based),Food,Haram,Contains alcohol
+Vanilla Extract (Non-Alcoholic),Food,Halal,No alcohol present
+Blood,Food,Haram,Forbidden to consume
+Liver (Halal Animal),Food,Halal,Permissible
+Horse Meat,Food,Halal,Permissible
+Carnivorous Animals (e.g. Lion),Food,Haram,Forbidden
+Eggs,Food,Halal,Permissible
+Shellfish,Food,Halal,Permissible
+Crab,Food,Halal,Permissible in many schools
+Caviar,Food,Halal,Permissible in many schools
+Octopus,Food,Halal,Permissible in many schools
+Shrimp,Food,Halal,Permissible
+Frog Meat,Food,Haram,Forbidden by most scholars
+Rabbit,Food,Halal,Permissible
+Duck,Food,Halal,Permissible
+Turkey,Food,Halal,Permissible
+Quail,Food,Halal,Permissible
+Venison (Halal Slaughtered),Food,Halal,Permissible
+Bear Meat,Food,Haram,Forbidden
+Dog,Pet,Halal,For guarding and hunting only
+Cat,Pet,Halal,Permissible
+Snake,Pet,Haram,Forbidden to keep as pet
+Horse Racing (Betting),Activity,Haram,Gambling is forbidden
+Horse Riding,Activity,Halal,Permissible
+Cinema (Halal Content),Activity,Halal,Permissible
+Cinema (Indecent Content),Activity,Haram,Indecency is forbidden
+Listening to Music (Debated),Activity,Halal,Permissible according to some scholars
+Listening to Music (With Bad Lyrics),Activity,Haram,Indecent content
+Interest-Free Loan,Financial,Halal,Permissible
+Payday Loan,Financial,Haram,Interest-based
+Islamic Mortgage,Financial,Halal,Permissible
+Conventional Mortgage,Financial,Haram,Interest-based
+Bacon,Food,Haram,Derived from pork
+Turkey Bacon,Food,Halal,From halal animal
+Pork Sausage,Food,Haram,Derived from pork
+Beef Sausage (Halal),Food,Halal,From halal animal
+Mortadella (Halal),Food,Halal,From halal animal
+Mortadella (Pork),Food,Haram,From pork
+Yoga (As Exercise),Activity,Halal,Permissible
+Yoga (As Worship),Activity,Haram,Imitating other religions
+Astrology,Activity,Haram,Superstition forbidden
+Tarot Cards,Activity,Haram,Superstition forbidden
+Meditation,Activity,Halal,Permissible
+Meditation (With Idol Worship),Activity,Haram,Idolatry forbidden
+Tattoos,Behavior,Haram,Body modification forbidden
+Henna,Behavior,Halal,Permissible
+Piercing (Ears),Behavior,Halal,Permissible for women
+Piercing (Other),Behavior,Haram,Body modification
+Dog Breeding,Activity,Haram,Generally discouraged
+Cat Breeding,Activity,Halal,Permissible
+Working in Bank (With Interest),Occupation,Haram,Dealing with riba
+Working in Islamic Bank,Occupation,Halal,Permissible
+Working in Alcohol Store,Occupation,Haram,Promoting haram
+Working in Grocery Store,Occupation,Halal,Permissible
+Watching Pornography,Activity,Haram,Forbidden
+Reading Quran,Activity,Halal,Religious duty
+Fasting (Ramadan),Activity,Halal,Religious obligation
+Eating During Ramadan (Without Excuse),Activity,Haram,Forbidden
+Smoking Weed,Behavior,Haram,Intoxicants forbidden
+Gambling,Activity,Haram,Forbidden
+Video Games (Halal Content),Activity,Halal,Permissible
+Video Games (Violent/Indecent),Activity,Haram,Forbidden
+Cheating,Behavior,Haram,Forbidden
+Lying,Behavior,Haram,Forbidden
+Truthfulness,Behavior,Halal,Encouraged
+Envy,Behavior,Haram,Forbidden
+Generosity,Behavior,Halal,Encouraged
+Backbiting,Behavior,Haram,Forbidden
+Gossiping,Behavior,Haram,Forbidden
+Respecting Parents,Behavior,Halal,Encouraged
+Disrespecting Parents,Behavior,Haram,Forbidden
+Hijab (For Women),Behavior,Halal,Obligatory
+Not Wearing Hijab (Without Excuse),Behavior,Haram,Obligatory
+Alcohol-Free Beer,Drink,Halal,No alcohol
+Beer,Drink,Haram,Contains alcohol
+Energy Drinks,Drink,Halal,Permissible
+Red Meat (Halal Slaughtered),Food,Halal,Permissible
+Processed Meat (With Pork),Food,Haram,Contains pork
+Processed Meat (Halal),Food,Halal,Permissible
+Gelatin Sweets (Halal),Food,Halal,Permissible
+Gelatin Sweets (Pork),Food,Haram,Forbidden
+Marijuana,Substance,Haram,Intoxicant
+Magic,Activity,Haram,Forbidden
+Witchcraft,Activity,Haram,Forbidden
+Black Magic,Activity,Haram,Forbidden
+Fortune Telling,Activity,Haram,Forbidden
+Astrology Columns,Activity,Haram,Forbidden
+Horoscopes,Activity,Haram,Forbidden
+Interest-Based Savings Account,Financial,Haram,Forbidden
+Islamic Savings Account,Financial,Halal,Permissible
+Shopping,Activity,Halal,Permissible
+Shoplifting,Behavior,Haram,Forbidden
+Online Shopping,Activity,Halal,Permissible
+Piracy (Software/Media),Activity,Haram,Forbidden
+Borrowing Books,Activity,Halal,Permissible
+Plagiarism,Behavior,Haram,Forbidden
+Honoring Agreements,Behavior,Halal,Encouraged
+Breaking Promises,Behavior,Haram,Forbidden
+Buying Halal Meat,Activity,Halal,Encouraged
+Buying Pork,Activity,Haram,Forbidden
+Donating Blood,Activity,Halal,Permissible
+Receiving Blood Transfusion,Activity,Halal,Permissible
+Organ Donation (With Consent),Activity,Halal,Permissible
+Organ Donation (Without Consent),Activity,Haram,Forbidden
+Abortion (Without Valid Reason),Activity,Haram,Forbidden
+Abortion (To Save Mother's Life),Activity,Halal,Permissible in necessity
+Euthanasia,Activity,Haram,Forbidden
+Suicide,Behavior,Haram,Forbidden
+Assisting Suicide,Activity,Haram,Forbidden
+Eating Halal Candy,Food,Halal,Permissible
+Eating Candy with Gelatin (Pork),Food,Haram,Forbidden
+Photography,Activity,Halal,Permissible
+Creating Idols/Statues,Activity,Haram,Forbidden
+Drawing Living Things,Activity,Halal,Permissible with conditions
+Drawing Idols,Activity,Haram,Forbidden
+Wearing Gold (Men),Behavior,Haram,Forbidden
+Wearing Gold (Women),Behavior,Halal,Permissible
+Wearing Silk (Men),Behavior,Haram,Forbidden
+Wearing Silk (Women),Behavior,Halal,Permissible
+Sponsoring Orphans,Activity,Halal,Encouraged
+Neglecting Orphans,Behavior,Haram,Forbidden
+Animal Cruelty,Behavior,Haram,Forbidden
+Animal Welfare,Behavior,Halal,Encouraged
+Using Halal Cosmetics,Product,Halal,Permissible
+Using Cosmetics (With Alcohol),Product,Haram,Forbidden
+Using Pig Fat in Products,Product,Haram,Forbidden
+Halal Nail Polish,Product,Halal,Permissible
+Non-Halal Nail Polish,Product,Haram,Forbidden
+Halal Toothpaste,Product,Halal,Permissible
+Toothpaste (With Gelatin),Product,Haram,Forbidden
+Hijama (Cupping Therapy),Activity,Halal,Recommended
+Astrology Apps,Activity,Haram,Forbidden
+Yoga Apps (Exercise),Activity,Halal,Permissible
+Islamic Apps (Prayer Times),Activity,Halal,Permissible
+Adult Magazines,Product,Haram,Forbidden
+Buying Halal Clothes,Product,Halal,Permissible
+Wearing Revealing Clothes,Behavior,Haram,Forbidden
+Using Halal Soap,Product,Halal,Permissible
+Soap (With Animal Fat),Product,Haram,Forbidden if non-halal fat
+Making Friends,Activity,Halal,Permissible
+Making Enemies,Behavior,Haram,Forbidden
+Sweets (With Alcohol),Food,Haram,Forbidden
+Sweets (Alcohol-Free),Food,Halal,Permissible
+Halal Cheese,Food,Halal,Permissible
+Cheese (With Animal Rennet),Food,Haram,Forbidden if non-halal rennet
+Halal Yogurt,Food,Halal,Permissible
+Yogurt (With Gelatin),Food,Haram,Forbidden if non-halal gelatin
+Ice Cream (Halal),Food,Halal,Permissible
+Ice Cream (With Alcohol),Food,Haram,Forbidden
+Camping,Activity,Halal,Permissible
+Hiking,Activity,Halal,Permissible
+Drinking Water,Drink,Halal,Permissible
+Drinking Coffee,Drink,Halal,Permissible
+Drinking Tea,Drink,Halal,Permissible
+Eating Halal Fast Food,Food,Halal,Permissible
+Eating Non-Halal Fast Food,Food,Haram,Forbidden
+Halal Investment,Financial,Halal,Permissible
+Stocks (Non-Haram Companies),Financial,Halal,Permissible
+Stocks (Alcohol, Gambling, etc.),Financial,Haram,Forbidden
+Halal Cosmetics,Product,Halal,Permissible
+Non-Halal Cosmetics,Product,Haram,Forbidden
+Pork,Food,Haram,Forbidden in Islam
+Chicken (Halal Slaughtered),Food,Halal,Permissible if slaughtered according to Islamic law
+Alcohol,Drink,Haram,Intoxicants are forbidden
+Beef (Halal Slaughtered),Food,Halal,Permissible if slaughtered according to Islamic law
+Lottery,Activity,Haram,Gambling is forbidden
+Prayer,Activity,Halal,Religious duty
+Wine,Drink,Haram,Alcoholic beverages are forbidden
+Dating (Unmarried),Activity,Haram,Relationships outside marriage are forbidden
+Fish,Food,Halal,Permissible
+Gelatin (Porcine),Food,Haram,Derived from pork
+Gelatin (Halal Bovine),Food,Halal,Derived from halal-slaughtered animal
+Bribery,Financial,Haram,Unlawful gain
+Charity (Zakat),Financial,Halal,Religious obligation
+Interest (Riba),Financial,Haram,Usury is forbidden
+Stealing,Behavior,Haram,Theft is forbidden
+Honesty,Behavior,Halal,Encouraged in Islam
+Murder,Behavior,Haram,Prohibited in Islam
+Marriage,Activity,Halal,Permissible
+Adultery,Behavior,Haram,Prohibited in Islam
+Smoking,Behavior,Haram,Harmful substances are forbidden
+Vaping,Behavior,Haram,Harmful substances are forbidden
+Cigarettes,Product,Haram,Harmful substances are forbidden
+Perfume (Alcohol-Free),Product,Halal,Permissible
+Perfume (With Alcohol),Product,Haram,Alcohol is forbidden
+Dog Meat,Food,Haram,Forbidden in Islam
+Lamb (Halal Slaughtered),Food,Halal,Permissible if slaughtered according to Islamic law
+Ham,Food,Haram,Derived from pork
+Sushi (With Halal Ingredients),Food,Halal,Permissible
+Sushi (With Alcohol),Food,Haram,Contains alcohol
+Wine Vinegar,Food,Halal,Alcohol is converted and no longer intoxicant
+Vanilla Extract (Alcohol-Based),Food,Haram,Contains alcohol
+Vanilla Extract (Non-Alcoholic),Food,Halal,No alcohol present
+Blood,Food,Haram,Forbidden to consume
+Liver (Halal Animal),Food,Halal,Permissible
+Horse Meat,Food,Halal,Permissible
+Carnivorous Animals (e.g. Lion),Food,Haram,Forbidden
+Eggs,Food,Halal,Permissible
+Shellfish,Food,Halal,Permissible
+Crab,Food,Halal,Permissible in many schools
+Caviar,Food,Halal,Permissible in many schools
+Octopus,Food,Halal,Permissible in many schools
+Shrimp,Food,Halal,Permissible
+Frog Meat,Food,Haram,Forbidden by most scholars
+Rabbit,Food,Halal,Permissible
+Duck,Food,Halal,Permissible
+Turkey,Food,Halal,Permissible
+Quail,Food,Halal,Permissible
+Venison (Halal Slaughtered),Food,Halal,Permissible
+Bear Meat,Food,Haram,Forbidden
+Dog,Pet,Halal,For guarding and hunting only
+Cat,Pet,Halal,Permissible
+Snake,Pet,Haram,Forbidden to keep as pet
+Horse Racing (Betting),Activity,Haram,Gambling is forbidden
+Horse Riding,Activity,Halal,Permissible
+Cinema (Halal Content),Activity,Halal,Permissible
+Cinema (Indecent Content),Activity,Haram,Indecency is forbidden
+Listening to Music (Debated),Activity,Halal,Permissible according to some scholars
+Listening to Music (With Bad Lyrics),Activity,Haram,Indecent content
+Interest-Free Loan,Financial,Halal,Permissible
+Payday Loan,Financial,Haram,Interest-based
+Islamic Mortgage,Financial,Halal,Permissible
+Conventional Mortgage,Financial,Haram,Interest-based
+Bacon,Food,Haram,Derived from pork
+Turkey Bacon,Food,Halal,From halal animal
+Pork Sausage,Food,Haram,Derived from pork
+Beef Sausage (Halal),Food,Halal,From halal animal
+Mortadella (Halal),Food,Halal,From halal animal
+Mortadella (Pork),Food,Haram,From pork
+Yoga (As Exercise),Activity,Halal,Permissible
+Yoga (As Worship),Activity,Haram,Imitating other religions
+Astrology,Activity,Haram,Superstition forbidden
+Tarot Cards,Activity,Haram,Superstition forbidden
+Meditation,Activity,Halal,Permissible
+Meditation (With Idol Worship),Activity,Haram,Idolatry forbidden
+Tattoos,Behavior,Haram,Body modification forbidden
+Henna,Behavior,Halal,Permissible
+Piercing (Ears),Behavior,Halal,Permissible for women
+Piercing (Other),Behavior,Haram,Body modification
+Dog Breeding,Activity,Haram,Generally discouraged
+Cat Breeding,Activity,Halal,Permissible
+Working in Bank (With Interest),Occupation,Haram,Dealing with riba
+Working in Islamic Bank,Occupation,Halal,Permissible
+Working in Alcohol Store,Occupation,Haram,Promoting haram
+Working in Grocery Store,Occupation,Halal,Permissible
+Watching Pornography,Activity,Haram,Forbidden
+Reading Quran,Activity,Halal,Religious duty
+Fasting (Ramadan),Activity,Halal,Religious obligation
+Eating During Ramadan (Without Excuse),Activity,Haram,Forbidden
+Smoking Weed,Behavior,Haram,Intoxicants forbidden
+Gambling,Activity,Haram,Forbidden
+Video Games (Halal Content),Activity,Halal,Permissible
+Video Games (Violent/Indecent),Activity,Haram,Forbidden
+Cheating,Behavior,Haram,Forbidden
+Lying,Behavior,Haram,Forbidden
+Truthfulness,Behavior,Halal,Encouraged
+Envy,Behavior,Haram,Forbidden
+Generosity,Behavior,Halal,Encouraged
+Backbiting,Behavior,Haram,Forbidden
+Gossiping,Behavior,Haram,Forbidden
+Respecting Parents,Behavior,Halal,Encouraged
+Disrespecting Parents,Behavior,Haram,Forbidden
+Hijab (For Women),Behavior,Halal,Obligatory
+Not Wearing Hijab (Without Excuse),Behavior,Haram,Obligatory
+Alcohol-Free Beer,Drink,Halal,No alcohol
+Beer,Drink,Haram,Contains alcohol
+Energy Drinks,Drink,Halal,Permissible
+Red Meat (Halal Slaughtered),Food,Halal,Permissible
+Processed Meat (With Pork),Food,Haram,Contains pork
+Processed Meat (Halal),Food,Halal,Permissible
+Gelatin Sweets (Halal),Food,Halal,Permissible
+Gelatin Sweets (Pork),Food,Haram,Forbidden
+Marijuana,Substance,Haram,Intoxicant
+Magic,Activity,Haram,Forbidden
+Witchcraft,Activity,Haram,Forbidden
+Black Magic,Activity,Haram,Forbidden
+Fortune Telling,Activity,Haram,Forbidden
+Astrology Columns,Activity,Haram,Forbidden
+Horoscopes,Activity,Haram,Forbidden
+Interest-Based Savings Account,Financial,Haram,Forbidden
+Islamic Savings Account,Financial,Halal,Permissible
+Shopping,Activity,Halal,Permissible
+Shoplifting,Behavior,Haram,Forbidden
+Online Shopping,Activity,Halal,Permissible
+Piracy (Software/Media),Activity,Haram,Forbidden
+Borrowing Books,Activity,Halal,Permissible
+Plagiarism,Behavior,Haram,Forbidden
+Honoring Agreements,Behavior,Halal,Encouraged
+Breaking Promises,Behavior,Haram,Forbidden
+Buying Halal Meat,Activity,Halal,Encouraged
+Buying Pork,Activity,Haram,Forbidden
+Donating Blood,Activity,Halal,Permissible
+Receiving Blood Transfusion,Activity,Halal,Permissible
+Organ Donation (With Consent),Activity,Halal,Permissible
+Organ Donation (Without Consent),Activity,Haram,Forbidden
+Abortion (Without Valid Reason),Activity,Haram,Forbidden
+Abortion (To Save Mother's Life),Activity,Halal,Permissible in necessity
+Euthanasia,Activity,Haram,Forbidden
+Suicide,Behavior,Haram,Forbidden
+Assisting Suicide,Activity,Haram,Forbidden
+Eating Halal Candy,Food,Halal,Permissible
+Eating Candy with Gelatin (Pork),Food,Haram,Forbidden
+Photography,Activity,Halal,Permissible
+Creating Idols/Statues,Activity,Haram,Forbidden
+Drawing Living Things,Activity,Halal,Permissible with conditions
+Drawing Idols,Activity,Haram,Forbidden
+Wearing Gold (Men),Behavior,Haram,Forbidden
+Wearing Gold (Women),Behavior,Halal,Permissible
+Wearing Silk (Men),Behavior,Haram,Forbidden
+Wearing Silk (Women),Behavior,Halal,Permissible
+Sponsoring Orphans,Activity,Halal,Encouraged
+Neglecting Orphans,Behavior,Haram,Forbidden
+Animal Cruelty,Behavior,Haram,Forbidden
+Animal Welfare,Behavior,Halal,Encouraged
+Using Halal Cosmetics,Product,Halal,Permissible
+Using Cosmetics (With Alcohol),Product,Haram,Forbidden
+Using Pig Fat in Products,Product,Haram,Forbidden
+Halal Nail Polish,Product,Halal,Permissible
+Non-Halal Nail Polish,Product,Haram,Forbidden
+Halal Toothpaste,Product,Halal,Permissible
+Toothpaste (With Gelatin),Product,Haram,Forbidden
+Hijama (Cupping Therapy),Activity,Halal,Recommended
+Astrology Apps,Activity,Haram,Forbidden
+Yoga Apps (Exercise),Activity,Halal,Permissible
+Islamic Apps (Prayer Times),Activity,Halal,Permissible
+Adult Magazines,Product,Haram,Forbidden
+Buying Halal Clothes,Product,Halal,Permissible
+Wearing Revealing Clothes,Behavior,Haram,Forbidden
+Using Halal Soap,Product,Halal,Permissible
+Soap (With Animal Fat),Product,Haram,Forbidden if non-halal fat
+Making Friends,Activity,Halal,Permissible
+Making Enemies,Behavior,Haram,Forbidden
+Sweets (With Alcohol),Food,Haram,Forbidden
+Sweets (Alcohol-Free),Food,Halal,Permissible
+Halal Cheese,Food,Halal,Permissible
+Cheese (With Animal Rennet),Food,Haram,Forbidden if non-halal rennet
+Halal Yogurt,Food,Halal,Permissible
+Yogurt (With Gelatin),Food,Haram,Forbidden if non-halal gelatin
+Ice Cream (Halal),Food,Halal,Permissible
+Ice Cream (With Alcohol),Food,Haram,Forbidden
+Camping,Activity,Halal,Permissible
+Hiking,Activity,Halal,Permissible
+Drinking Water,Drink,Halal,Permissible
+Drinking Coffee,Drink,Halal,Permissible
+Drinking Tea,Drink,Halal,Permissible
+Eating Halal Fast Food,Food,Halal,Permissible
+Eating Non-Halal Fast Food,Food,Haram,Forbidden
+Halal Investment,Financial,Halal,Permissible
+Stocks (Non-Haram Companies),Financial,Halal,Permissible
+Stocks (Alcohol, Gambling, etc.),Financial,Haram,Forbidden
+Halal Cosmetics,Product,Halal,Permissible
+Non-Halal Cosmetics,Product,Haram,Forbidden
+Halal Vitamins,Product,Halal,Permissible
+Vitamins (With Gelatin),Product,Haram,Forbidden if non-halal gelatin
+Halal Supplements,Product,Halal,Permissible
+Supplements (With Alcohol),Product,Haram,Forbidden
+Artificial Flavors,Food,Halal,Permissible
+Natural Flavors (With Alcohol),Food,Haram,Forbidden
+Halal Energy Bars,Food,Halal,Permissible
+Energy Bars (With Gelatin),Food,Haram,Forbidden
+Halal Bread,Food,Halal,Permissible
+Bread (With Alcohol),Food,Haram,Forbidden
+Halal Soup,Food,Halal,Permissible
+Soup (With Pork),Food,Haram,Forbidden
+Halal Pizza,Food,Halal,Permissible
+Pizza (With Pork),Food,Haram,Forbidden
+Halal Burger,Food,Halal,Permissible
+Burger (With Bacon),Food,Haram,Forbidden
+Halal Sandwich,Food,Halal,Permissible
+Sandwich (With Ham),Food,Haram,Forbidden
+Halal Pasta,Food,Halal,Permissible
+Pasta (With Pork),Food,Haram,Forbidden
+Halal Noodles,Food,Halal,Permissible
+Noodles (With Alcohol),Food,Haram,Forbidden
+Halal Fries,Food,Halal,Permissible
+Fries (With Bacon),Food,Haram,Forbidden
+Halal Rice,Food,Halal,Permissible
+Rice (With Wine),Food,Haram,Forbidden
+Halal Salad,Food,Halal,Permissible
+Salad (With Bacon Bits),Food,Haram,Forbidden
+Halal Dressing,Food,Halal,Permissible
+Dressing (With Wine),Food,Haram,Forbidden
+Halal Soup Base,Food,Halal,Permissible
+Soup Base (With Pork),Food,Haram,Forbidden
+Halal Sauce,Food,Halal,Permissible
+Sauce (With Alcohol),Food,Haram,Forbidden
+Halal Snacks,Food,Halal,Permissible
+Snacks (With Gelatin),Food,Haram,Forbidden if non-halal gelatin
+Halal Crackers,Food,Halal,Permissible
+Crackers (With Lard),Food,Haram,Forbidden
+Halal Cookies,Food,Halal,Permissible
+Cookies (With Rum),Food,Haram,Forbidden
+Halal Chips,Food,Halal,Permissible
+Chips (With Bacon),Food,Haram,Forbidden
+Halal Soup Mix,Food,Halal,Permissible
+Soup Mix (With Pork),Food,Haram,Forbidden
+Halal Seasoning,Food,Halal,Permissible
+Seasoning (With Wine),Food,Haram,Forbidden
+Halal Spices,Food,Halal,Permissible
+Spices (With Pork),Food,Haram,Forbidden
+Halal Herbs,Food,Halal,Permissible
+Herbs (With Alcohol),Food,Haram,Forbidden
+Halal Cooking Oil,Food,Halal,Permissible
+Cooking Oil (With Lard),Food,Haram,Forbidden
+Halal Butter,Food,Halal,Permissible
+Butter (With Pork Enzyme),Food,Haram,Forbidden
+Halal Margarine,Food,Halal,Permissible
+Margarine (With Lard),Food,Haram,Forbidden
+Halal Chocolate,Food,Halal,Permissible
+Chocolate (With Alcohol),Food,Haram,Forbidden
+Halal Candy,Food,Halal,Permissible
+Candy (With Lard),Food,Haram,Forbidden
+Halal Cake,Food,Halal,Permissible
+Cake (With Rum),Food,Haram,Forbidden
+Halal Muffin,Food,Halal,Permissible
+Muffin (With Wine),Food,Haram,Forbidden
+Halal Pancake,Food,Halal,Permissible
+Pancake (With Lard),Food,Haram,Forbidden
+Halal Waffle,Food,Halal,Permissible
+Waffle (With Rum),Food,Haram,Forbidden
+Halal Ice Cream,Food,Halal,Permissible
+Ice Cream (With Alcohol),Food,Haram,Forbidden
+Halal Milkshake,Food,Halal,Permissible
+Milkshake (With Alcohol),Food,Haram,Forbidden
+Halal Yogurt Drink,Food,Halal,Permissible
+Yogurt Drink (With Alcohol),Food,Haram,Forbidden
+Halal Coffee Drink,Drink,Halal,Permissible
+Coffee Drink (With Alcohol),Drink,Haram,Forbidden
+Halal Tea Drink,Drink,Halal,Permissible
+Tea Drink (With Alcohol),Drink,Haram,Forbidden
+Halal Juice,Drink,Halal,Permissible
+Juice (With Alcohol),Drink,Haram,Forbidden
+Halal Smoothie,Drink,Halal,Permissible
+Smoothie (With Alcohol),Drink,Haram,Forbidden
+Halal Soft Drink,Drink,Halal,Permissible
+Soft Drink (With Alcohol),Drink,Haram,Forbidden
+Halal Lemonade,Drink,Halal,Permissible
+Lemonade (With Alcohol),Drink,Haram,Forbidden
+Halal Sports Drink,Drink,Halal,Permissible
+Sports Drink (With Alcohol),Drink,Haram,Forbidden
+Halal Water,Drink,Halal,Permissible
+Water (With Alcohol),Drink,Haram,Forbidden
+Halal Milk,Drink,Halal,Permissible
+Milk (With Alcohol),Drink,Haram,Forbidden
+Halal Cheese Snack,Food,Halal,Permissible
+Cheese Snack (With Pork),Food,Haram,Forbidden
+Halal Yogurt Snack,Food,Halal,Permissible
+Yogurt Snack (With Gelatin),Food,Haram,Forbidden
+Halal Fruit Snack,Food,Halal,Permissible
+Fruit Snack (With Gelatin),Food,Haram,Forbidden
+Halal Nut Snack,Food,Halal,Permissible
+Nut Snack (With Lard),Food,Haram,Forbidden
+Halal Cereal Bar,Food,Halal,Permissible
+Cereal Bar (With Gelatin),Food,Haram,Forbidden
+Halal Granola Bar,Food,Halal,Permissible
+Granola Bar (With Alcohol),Food,Haram,Forbidden
+Halal Rice Cake,Food,Halal,Permissible
+Rice Cake (With Alcohol),Food,Haram,Forbidden
+Halal Popcorn,Food,Halal,Permissible
+Popcorn (With Bacon),Food,Haram,Forbidden
+Halal Trail Mix,Food,Halal,Permissible
+Trail Mix (With Lard),Food,Haram,Forbidden
+Halal Frozen Meal,Food,Halal,Permissible
+Frozen Meal (With Pork),Food,Haram,Forbidden
+Halal Soup Can,Food,Halal,Permissible
+Soup Can (With Pork),Food,Haram,Forbidden
+Halal Ready Meal,Food,Halal,Permissible
+Ready Meal (With Alcohol),Food,Haram,Forbidden
+Halal Baby Food,Food,Halal,Permissible
+Baby Food (With Gelatin),Food,Haram,Forbidden
+Halal Toddler Snack,Food,Halal,Permissible
+Toddler Snack (With Alcohol),Food,Haram,Forbidden
+Halal School Lunch,Food,Halal,Permissible
+School Lunch (With Pork),Food,Haram,Forbidden
+Halal Hospital Meal,Food,Halal,Permissible
+Hospital Meal (With Alcohol),Food,Haram,Forbidden
+Halal Airline Meal,Food,Halal,Permissible
+Airline Meal (With Pork),Food,Haram,Forbidden
+Halal Restaurant Meal,Food,Halal,Permissible
+Restaurant Meal (With Alcohol),Food,Haram,Forbidden
+Halal Catering,Food,Halal,Permissible
+Catering (With Pork),Food,Haram,Forbidden
+Halal Party Food,Food,Halal,Permissible
+Party Food (With Alcohol),Food,Haram,Forbidden
+Halal Wedding Food,Food,Halal,Permissible
+Wedding Food (With Pork),Food,Haram,Forbidden
+Halal Snack Box,Food,Halal,Permissible
+Snack Box (With Lard),Food,Haram,Forbidden
+Halal Picnic Food,Food,Halal,Permissible
+Picnic Food (With Alcohol),Food,Haram,Forbidden
+Halal Bento Box,Food,Halal,Permissible
+Bento Box (With Pork),Food,Haram,Forbidden
+Halal Lunchbox,Food,Halal,Permissible
+Lunchbox (With Ham),Food,Haram,Forbidden
+Halal Buffet,Food,Halal,Permissible
+Buffet (With Alcohol),Food,Haram,Forbidden
+Halal Breakfast,Food,Halal,Permissible
+Breakfast (With Bacon),Food,Haram,Forbidden
+Halal Brunch,Food,Halal,Permissible
+Brunch (With Wine),Food,Haram,Forbidden
+Halal Dinner,Food,Halal,Permissible
+Dinner (With Pork),Food,Haram,Forbidden
+Halal Supper,Food,Halal,Permissible
+Supper (With Alcohol),Food,Haram,Forbidden
+Halal Midnight Snack,Food,Halal,Permissible
+Midnight Snack (With Lard),Food,Haram,Forbidden
+Halal Afternoon Tea,Drink,Halal,Permissible
+Afternoon Tea (With Brandy),Drink,Haram,Forbidden
+Halal High Tea,Drink,Halal,Permissible
+High Tea (With Wine),Drink,Haram,Forbidden
+Halal Coffee Break,Drink,Halal,Permissible
+Coffee Break (With Liqueur),Drink,Haram,Forbidden
+Halal Toast,Food,Halal,Permissible
+Toast (With Bacon),Food,Haram,Forbidden
+Halal Bagel,Food,Halal,Permissible
+Bagel (With Ham),Food,Haram,Forbidden
+Halal Croissant,Food,Halal,Permissible
+Croissant (With Lard),Food,Haram,Forbidden
+Halal Donut,Food,Halal,Permissible
+Donut (With Rum),Food,Haram,Forbidden
+Halal Danish,Food,Halal,Permissible
+Danish (With Wine),Food,Haram,Forbidden
+Halal Pie,Food,Halal,Permissible
+Pie (With Lard),Food,Haram,Forbidden
+Halal Tart,Food,Halal,Permissible
+Tart (With Rum),Food,Haram,Forbidden
+Halal Pastry,Food,Halal,Permissible
+Pastry (With Lard),Food,Haram,Forbidden
+Halal Pudding,Food,Halal,Permissible
+Pudding (With Gelatin),Food,Haram,Forbidden
+Halal Custard,Food,Halal,Permissible
+Custard (With Alcohol),Food,Haram,Forbidden
+Halal Jelly,Food,Halal,Permissible
+Jelly (With Gelatin),Food,Haram,Forbidden
+Halal Sorbet,Food,Halal,Permissible
+Sorbet (With Alcohol),Food,Haram,Forbidden
+Halal Gelato,Food,Halal,Permissible
+Gelato (With Alcohol),Food,Haram,Forbidden
+Halal Mousse,Food,Halal,Permissible
+Mousse (With Gelatin),Food,Haram,Forbidden
+Halal Parfait,Food,Halal,Permissible
+Parfait (With Alcohol),Food,Haram,Forbidden
+Halal Fudge,Food,Halal,Permissible
+Fudge (With Rum),Food,Haram,Forbidden
+Halal Toffee,Food,Halal,Permissible
+Toffee (With Alcohol),Food,Haram,Forbidden
+Halal Truffle,Food,Halal,Permissible
+Truffle (With Alcohol),Food,Haram,Forbidden
+Halal Brownie,Food,Halal,Permissible
+Brownie (With Rum),Food,Haram,Forbidden
+Halal Blondie,Food,Halal,Permissible
+Blondie (With Alcohol),Food,Haram,Forbidden
+Halal Biscuit,Food,Halal,Permissible
+Biscuit (With Lard),Food,Haram,Forbidden
+Halal Crackle,Food,Halal,Permissible
+Crackle (With Bacon),Food,Haram,Forbidden
+Halal Wafers,Food,Halal,Permissible
+Wafers (With Gelatin),Food,Haram,Forbidden
+Halal Stick,Food,Halal,Permissible
+Stick (With Lard),Food,Haram,Forbidden
+Halal Roll,Food,Halal,Permissible
+Roll (With Ham),Food,Haram,Forbidden
+Halal Loaf,Food,Halal,Permissible
+Loaf (With Alcohol),Food,Haram,Forbidden
+Halal Bun,Food,Halal,Permissible
+Bun (With Bacon),Food,Haram,Forbidden
+Halal Wrap,Food,Halal,Permissible
+Wrap (With Pork),Food,Haram,Forbidden
+Halal Taco,Food,Halal,Permissible
+Taco (With Lard),Food,Haram,Forbidden
+Halal Burrito,Food,Halal,Permissible
+Burrito (With Pork),Food,Haram,Forbidden
+Halal Quesadilla,Food,Halal,Permissible
+Quesadilla (With Lard),Food,Haram,Forbidden
+Halal Enchilada,Food,Halal,Permissible
+Enchilada (With Pork),Food,Haram,Forbidden
+Halal Nachos,Food,Halal,Permissible
+Nachos (With Bacon),Food,Haram,Forbidden
+Halal Salsa,Food,Halal,Permissible
+Salsa (With Alcohol),Food,Haram,Forbidden
+Halal Guacamole,Food,Halal,Permissible
+Guacamole (With Bacon),Food,Haram,Forbidden
+Halal Hummus,Food,Halal,Permissible
+Hummus (With Pork),Food,Haram,Forbidden
+Halal Falafel,Food,Halal,Permissible
+Falafel (With Alcohol),Food,Haram,Forbidden
+Halal Shawarma,Food,Halal,Permissible
+Shawarma (With Pork),Food,Haram,Forbidden
+Halal Kebab,Food,Halal,Permissible
+Kebab (With Bacon),Food,Haram,Forbidden
+Halal Samosa,Food,Halal,Permissible
+Samosa (With Pork),Food,Haram,Forbidden
+Halal Spring Roll,Food,Halal,Permissible
+Spring Roll (With Lard),Food,Haram,Forbidden
+Halal Dumpling,Food,Halal,Permissible
+Dumpling (With Pork),Food,Haram,Forbidden
+Halal Naan,Food,Halal,Permissible
+Naan (With Lard),Food,Haram,Forbidden
+Halal Roti,Food,Halal,Permissible
+Roti (With Lard),Food,Haram,Forbidden
+Halal Pita,Food,Halal,Permissible
+Pita (With Lard),Food,Haram,Forbidden
+Halal Focaccia,Food,Halal,Permissible
+Focaccia (With Lard),Food,Haram,Forbidden
+Halal Baguette,Food,Halal,Permissible
+Baguette (With Lard),Food,Haram,Forbidden
+Halal Ciabatta,Food,Halal,Permissible
+Ciabatta (With Lard),Food,Haram,Forbidden
+Halal Sourdough,Food,Halal,Permissible
+Sourdough (With Lard),Food,Haram,Forbidden
+Halal Rye Bread,Food,Halal,Permissible
+Rye Bread (With Lard),Food,Haram,Forbidden
+Halal Multigrain Bread,Food,Halal,Permissible
+Multigrain Bread (With Lard),Food,Haram,Forbidden
+Halal Brioche,Food,Halal,Permissible
+Brioche (With Lard),Food,Haram,Forbidden
+Halal Challah,Food,Halal,Permissible
+Challah (With Lard),Food,Haram,Forbidden
+Halal Cornbread,Food,Halal,Permissible
+Cornbread (With Lard),Food,Haram,Forbidden
+Halal Pumpernickel,Food,Halal,Permissible
+Pumpernickel (With Lard),Food,Haram,Forbidden
+Halal Flatbread,Food,Halal,Permissible
+Flatbread (With Lard),Food,Haram,Forbidden
+Halal Lavash,Food,Halal,Permissible
+Lavash (With Lard),Food,Haram,Forbidden
+Halal Matzo,Food,Halal,Permissible
+Matzo (With Lard),Food,Haram,Forbidden
+Halal Tortilla,Food,Halal,Permissible
+Tortilla (With Lard),Food,Haram,Forbidden
+Halal Chapati,Food,Halal,Permissible
+Chapati (With Lard),Food,Haram,Forbidden
+Halal Paratha,Food,Halal,Permissible
+Paratha (With Lard),Food,Haram,Forbidden
+Halal Crumpet,Food,Halal,Permissible
+Crumpet (With Lard),Food,Haram,Forbidden
+Halal Muffin Bread,Food,Halal,Permissible
+Muffin Bread (With Lard),Food,Haram,Forbidden
+Halal Baghrir,Food,Halal,Permissible
+Baghrir (With Lard),Food,Haram,Forbidden
+Halal Injera,Food,Halal,Permissible
+Injera (With Lard),Food,Haram,Forbidden
+Halal Arepa,Food,Halal,Permissible
+Arepa (With Lard),Food,Haram,Forbidden
+Halal Pupusa,Food,Halal,Permissible
+Pupusa (With Lard),Food,Haram,Forbidden
+Halal Empanada,Food,Halal,Permissible
+Empanada (With Lard),Food,Haram,Forbidden
+Halal Tamale,Food,Halal,Permissible
+Tamale (With Lard),Food,Haram,Forbidden
+Halal Baozi,Food,Halal,Permissible
+Baozi (With Pork),Food,Haram,Forbidden
+Halal Mantou,Food,Halal,Permissible
+Mantou (With Lard),Food,Haram,Forbidden
+Halal Jiaozi,Food,Halal,Permissible
+Jiaozi (With Pork),Food,Haram,Forbidden
+Halal Gyoza,Food,Halal,Permissible
+Gyoza (With Pork),Food,Haram,Forbidden
+Halal Siu Mai,Food,Halal,Permissible
+Siu Mai (With Pork),Food,Haram,Forbidden
+Halal Har Gow,Food,Halal,Permissible
+Har Gow (With Pork),Food,Haram,Forbidden
+Halal Char Siu Bao,Food,Halal,Permissible
+Char Siu Bao (With Pork),Food,Haram,Forbidden
+Halal Egg Roll,Food,Halal,Permissible
+Egg Roll (With Pork),Food,Haram,Forbidden
+Halal Lumpia,Food,Halal,Permissible
+Lumpia (With Pork),Food,Haram,Forbidden
+Halal Burek,Food,Halal,Permissible
+Burek (With Pork),Food,Haram,Forbidden
+Halal Börek,Food,Halal,Permissible
+Börek (With Pork),Food,Haram,Forbidden
+Halal Spanakopita,Food,Halal,Permissible
+Spanakopita (With Lard),Food,Haram,Forbidden
+Halal Sfiha,Food,Halal,Permissible
+Sfiha (With Pork),Food,Haram,Forbidden
+Halal Lahmacun,Food,Halal,Permissible
+Lahmacun (With Pork),Food,Haram,Forbidden
+Halal Pide,Food,Halal,Permissible
+Pide (With Pork),Food,Haram,Forbidden
+Halal Gözleme,Food,Halal,Permissible
+Gözleme (With Pork),Food,Haram,Forbidden
+Halal Börekitas,Food,Halal,Permissible
+Börekitas (With Pork),Food,Haram,Forbidden
+Halal Calzone,Food,Halal,Permissible
+Calzone (With Pork),Food,Haram,Forbidden
+Halal Stromboli,Food,Halal,Permissible
+Stromboli (With Pork),Food,Haram,Forbidden
+Halal Panzerotti,Food,Halal,Permissible
+Panzerotti (With Pork),Food,Haram,Forbidden
+Halal Pizza Pocket,Food,Halal,Permissible
+Pizza Pocket (With Pork),Food,Haram,Forbidden
+Halal Turnover,Food,Halal,Permissible
+Turnover (With Pork),Food,Haram,Forbidden
+Halal Pie Pocket,Food,Halal,Permissible
+Pie Pocket (With Pork),Food,Haram,Forbidden
+Halal Meat Pie,Food,Halal,Permissible
+Meat Pie (With Pork),Food,Haram,Forbidden
+Halal Shepherd's Pie,Food,Halal,Permissible
+Shepherd's Pie (With Pork),Food,Haram,Forbidden
+Halal Cottage Pie,Food,Halal,Permissible
+Cottage Pie (With Pork),Food,Haram,Forbidden
+Halal Cornish Pasty,Food,Halal,Permissible
+Cornish Pasty (With Pork),Food,Haram,Forbidden
+Halal Jamaican Patty,Food,Halal,Permissible
+Jamaican Patty (With Pork),Food,Haram,Forbidden
+Halal Samosa Pastry,Food,Halal,Permissible
+Samosa Pastry (With Pork),Food,Haram,Forbidden
+Halal Puff Pastry,Food,Halal,Permissible
+Puff Pastry (With Lard),Food,Haram,Forbidden
+Halal Phyllo Pastry,Food,Halal,Permissible
+Phyllo Pastry (With Lard),Food,Haram,Forbidden
+Halal Shortcrust Pastry,Food,Halal,Permissible
+Shortcrust Pastry (With Lard),Food,Haram,Forbidden
+Halal Choux Pastry,Food,Halal,Permissible
+Choux Pastry (With Lard),Food,Haram,Forbidden
+Halal Brioche Pastry,Food,Halal,Permissible
+Brioche Pastry (With Lard),Food,Haram,Forbidden
+Halal Danish Pastry,Food,Halal,Permissible
+Danish Pastry (With Lard),Food,Haram,Forbidden
+Halal Croissant Pastry,Food,Halal,Permissible
+Croissant Pastry (With Lard),Food,Haram,Forbidden
+Halal Éclair Pastry,Food,Halal,Permissible
+Éclair Pastry (With Lard),Food,Haram,Forbidden
+Halal Profiterole Pastry,Food,Halal,Permissible
+Profiterole Pastry (With Lard),Food,Haram,Forbidden
+Halal Cream Puff Pastry,Food,Halal,Permissible
+Cream Puff Pastry (With Lard),Food,Haram,Forbidden
+Halal Cannoli,Food,Halal,Permissible
+Cannoli (With Lard),Food,Haram,Forbidden
+Halal Zeppole,Food,Halal,Permissible
+Zeppole (With Lard),Food,Haram,Forbidden
+Halal Churro,Food,Halal,Permissible
+Churro (With Lard),Food,Haram,Forbidden
+Halal Beignet,Food,Halal,Permissible
+Beignet (With Lard),Food,Haram,Forbidden
+Halal Funnel Cake,Food,Halal,Permissible
+Funnel Cake (With Lard),Food,Haram,Forbidden
+Halal Cruller,Food,Halal,Permissible
+Cruller (With Lard),Food,Haram,Forbidden
+Halal Berliner,Food,Halal,Permissible
+Berliner (With Lard),Food,Haram,Forbidden
